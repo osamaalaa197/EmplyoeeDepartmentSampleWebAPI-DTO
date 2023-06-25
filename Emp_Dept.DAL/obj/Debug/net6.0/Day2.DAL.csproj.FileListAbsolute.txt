@@ -1,0 +1,14 @@
+D:\iti\data\WebApi\Day2\Lab2\Day2\Day2.DAL\bin\Debug\net6.0\Day2.DAL.deps.json
+D:\iti\data\WebApi\Day2\Lab2\Day2\Day2.DAL\bin\Debug\net6.0\Day2.DAL.runtimeconfig.json
+D:\iti\data\WebApi\Day2\Lab2\Day2\Day2.DAL\bin\Debug\net6.0\Day2.DAL.dll
+D:\iti\data\WebApi\Day2\Lab2\Day2\Day2.DAL\bin\Debug\net6.0\Day2.DAL.pdb
+D:\iti\data\WebApi\Day2\Lab2\Day2\Day2.DAL\obj\Debug\net6.0\Day2.DAL.csproj.AssemblyReference.cache
+D:\iti\data\WebApi\Day2\Lab2\Day2\Day2.DAL\obj\Debug\net6.0\Day2.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\iti\data\WebApi\Day2\Lab2\Day2\Day2.DAL\obj\Debug\net6.0\Day2.DAL.AssemblyInfoInputs.cache
+D:\iti\data\WebApi\Day2\Lab2\Day2\Day2.DAL\obj\Debug\net6.0\Day2.DAL.AssemblyInfo.cs
+D:\iti\data\WebApi\Day2\Lab2\Day2\Day2.DAL\obj\Debug\net6.0\Day2.DAL.csproj.CoreCompileInputs.cache
+D:\iti\data\WebApi\Day2\Lab2\Day2\Day2.DAL\obj\Debug\net6.0\Day2.DAL.dll
+D:\iti\data\WebApi\Day2\Lab2\Day2\Day2.DAL\obj\Debug\net6.0\refint\Day2.DAL.dll
+D:\iti\data\WebApi\Day2\Lab2\Day2\Day2.DAL\obj\Debug\net6.0\Day2.DAL.pdb
+D:\iti\data\WebApi\Day2\Lab2\Day2\Day2.DAL\obj\Debug\net6.0\Day2.DAL.genruntimeconfig.cache
+D:\iti\data\WebApi\Day2\Lab2\Day2\Day2.DAL\obj\Debug\net6.0\ref\Day2.DAL.dll

@@ -1,0 +1,15 @@
+D:\iti\data\WebApi\Day2\Lab2\Day2\Day2.Bl\bin\Debug\net6.0\Day2.Bl.deps.json
+D:\iti\data\WebApi\Day2\Lab2\Day2\Day2.Bl\bin\Debug\net6.0\Day2.Bl.dll
+D:\iti\data\WebApi\Day2\Lab2\Day2\Day2.Bl\bin\Debug\net6.0\Day2.Bl.pdb
+D:\iti\data\WebApi\Day2\Lab2\Day2\Day2.Bl\bin\Debug\net6.0\Day2.DAL.dll
+D:\iti\data\WebApi\Day2\Lab2\Day2\Day2.Bl\bin\Debug\net6.0\Day2.DAL.pdb
+D:\iti\data\WebApi\Day2\Lab2\Day2\Day2.Bl\obj\Debug\net6.0\Day2.Bl.csproj.AssemblyReference.cache
+D:\iti\data\WebApi\Day2\Lab2\Day2\Day2.Bl\obj\Debug\net6.0\Day2.Bl.GeneratedMSBuildEditorConfig.editorconfig
+D:\iti\data\WebApi\Day2\Lab2\Day2\Day2.Bl\obj\Debug\net6.0\Day2.Bl.AssemblyInfoInputs.cache
+D:\iti\data\WebApi\Day2\Lab2\Day2\Day2.Bl\obj\Debug\net6.0\Day2.Bl.AssemblyInfo.cs
+D:\iti\data\WebApi\Day2\Lab2\Day2\Day2.Bl\obj\Debug\net6.0\Day2.Bl.csproj.CoreCompileInputs.cache
+D:\iti\data\WebApi\Day2\Lab2\Day2\Day2.Bl\obj\Debug\net6.0\Day2.Bl.csproj.CopyComplete
+D:\iti\data\WebApi\Day2\Lab2\Day2\Day2.Bl\obj\Debug\net6.0\Day2.Bl.dll
+D:\iti\data\WebApi\Day2\Lab2\Day2\Day2.Bl\obj\Debug\net6.0\refint\Day2.Bl.dll
+D:\iti\data\WebApi\Day2\Lab2\Day2\Day2.Bl\obj\Debug\net6.0\Day2.Bl.pdb
+D:\iti\data\WebApi\Day2\Lab2\Day2\Day2.Bl\obj\Debug\net6.0\ref\Day2.Bl.dll
